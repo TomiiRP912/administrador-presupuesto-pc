@@ -42,10 +42,6 @@ No se utilizaron frameworks externos.
 
 El proyecto se organiza en los siguientes archivos:
 
-```
-
-```
-
 * **index.html** → estructura principal de la aplicación
 * **style.css** → estilos visuales de la página
 * **script.js** → lógica del programa y manipulación del DOM
