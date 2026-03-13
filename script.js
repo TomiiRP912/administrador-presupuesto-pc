@@ -1,15 +1,15 @@
-// Presupuesto máximo (podemos cambiarlo después)
+
 let PRESUPUESTO_MAXIMO = 0;
 
-// Array donde guardaremos los componentes
+
 let componentes = [];
 
-// Capturamos el formulario
+
 const formulario = document.getElementById("componenteForm");
 
-// Escuchamos el evento submit
+
 formulario.addEventListener("submit", function(event) {
-    event.preventDefault(); // Evita que la página se recargue
+    event.preventDefault(); 
     
     agregarComponente();
 });
