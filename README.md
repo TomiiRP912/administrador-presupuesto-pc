@@ -1,7 +1,6 @@
-# administrador-presupuesto-pc
-# Administrador de Presupuesto para PC Gamer
+# 🎮 Administrador de Presupuesto para PC Gamer
 
-## Descripción
+##  Descripción
 
 Este proyecto consiste en una aplicación web desarrollada con **HTML, CSS y JavaScript** que permite planificar el armado de una PC Gamer controlando el presupuesto disponible.
 
@@ -42,6 +41,15 @@ No se utilizaron frameworks externos.
 
 El proyecto se organiza en los siguientes archivos:
 
+```
+/proyecto-pc-gamer
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
 * **index.html** → estructura principal de la aplicación
 * **style.css** → estilos visuales de la página
 * **script.js** → lógica del programa y manipulación del DOM
@@ -79,4 +87,3 @@ Este proyecto fue realizado como **trabajo final de la materia Prácticas Profes
 ## Autor
 
 Proyecto desarrollado por **Tomás Albert**.
-
