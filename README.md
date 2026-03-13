@@ -1,4 +1,4 @@
-# 🎮 Administrador de Presupuesto para PC Gamer
+# Administrador de Presupuesto para PC Gamer
 
 ##  Descripción
 
@@ -40,15 +40,6 @@ No se utilizaron frameworks externos.
 ## Estructura del proyecto
 
 El proyecto se organiza en los siguientes archivos:
-
-```
-/proyecto-pc-gamer
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
 
 * **index.html** → estructura principal de la aplicación
 * **style.css** → estilos visuales de la página
